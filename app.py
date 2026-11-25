@@ -972,11 +972,6 @@ with st.sidebar:
         ],
     )
 
-    st.info(
-        "🎧 TTS: Edge TTS\n\n"
-        "Free and does not consume "
-        "your ElevenLabs credits."
-    )
 
     st.divider()
 
