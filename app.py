@@ -16,7 +16,7 @@ from pydub import AudioSegment
 # CONFIG
 # ============================================================
 
-APP_TITLE = "📰 → 🎙️ Blog to Podcast AI Studio"
+APP_TITLE = "VoxForge AI"
 
 OPENROUTER_MODELS = [
     "qwen/qwen3.8-27b:free",
@@ -929,11 +929,9 @@ st.markdown(
     """
     <div class="hero">
 
-        📰 → 🎙️ Blog to Podcast AI
-
+        📰 → 🎙️ Blog to AI Podcast
         
-        Turn any article into a conversational AI podcast
-        using Firecrawl, OpenRouter and free Edge TTS.
+        Turn any article into a conversational AI podcast.
         
 
     </div>
